@@ -1,5 +1,5 @@
-# vanilla-js-number-counter
-Number Counter
+# Number Counter
+
 
 I am doing these exercises in order to solidify my vanilla JS knowledge.
 This exercise is a simple Number Counter.
